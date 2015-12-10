@@ -1,3 +1,4 @@
 This is a fakey file for git class.
 Making another change.
 Making a third change.
+making a change
