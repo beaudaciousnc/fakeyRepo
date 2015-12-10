@@ -2,3 +2,4 @@ This is a fakey file for git class.
 Making another change.
 Making a third change.
 making a change
+making some changes for the feature branch
